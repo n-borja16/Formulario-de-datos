@@ -13,3 +13,4 @@
 <p>Término de búsqueda: <input type="search" name="search_control" /></p>
 <p>Color favorito: <input type="color" name="color_control" /></p>
 <p><input type="submit" value="Enviar" /></p>
+<form>
